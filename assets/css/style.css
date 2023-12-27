@@ -99,9 +99,8 @@ a:hover {
 
     /* backdrop-filter: blur(); */
     
-        background-image:url("/assets/img/banner/banner-three.jpg");
-        background-size:cover;
-   
+    background-image:url(/assets/img/banner/banner-three.jpg);
+    background-size:cover;
     border-radius: 2.1875em;
     justify-content: center;
     padding: 0.625em 6.25em;
